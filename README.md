@@ -8,4 +8,4 @@ Code was used for the following purposes:
 - gene expression analysis
 - heatmap generation
 
-All data came from the Cancer Cell Line Encyclopedia (CCLE) and DepMap Public 23Q2 Dataset.
+All data came from the Cancer Cell Line Encyclopedia (CCLE) and DepMap Public 23Q2 Dataset (https://depmap.org/portal/download/all/). ![image](https://github.com/fordivyav/CKLF_Neuroblastoma/assets/20211731/108d5e7a-e34d-4d59-a5e6-5febda8ab182) ![image](https://github.com/fordivyav/CKLF_Neuroblastoma/assets/20211731/c7c7f720-ced5-461b-9b10-c65be035117b)
