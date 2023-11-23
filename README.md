@@ -9,4 +9,5 @@ Code was used for the following purposes:
 - heatmap generation
 
 All data came from the Broad Institute's [DepMap Public 23Q2 Dataset](https://depmap.org/portal/download/all/). 
+
 ![image](https://github.com/fordivyav/CKLF_Neuroblastoma/assets/20211731/c7c7f720-ced5-461b-9b10-c65be035117b)
